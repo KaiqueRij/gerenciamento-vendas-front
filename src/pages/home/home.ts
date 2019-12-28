@@ -23,5 +23,4 @@ export class HomePage {
   ionViewDidLeave () {
     this.menu.swipeEnable(true);
   }
-
 }
